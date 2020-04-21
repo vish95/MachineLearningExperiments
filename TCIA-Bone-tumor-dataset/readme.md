@@ -8,6 +8,6 @@ Since the feature list provided with a lot of data, it was first given preferenc
 Further image analysis and feature extraction was not carried out.
 
 Logistic regression was carried out with the existing dataset.
-With the obtained results it was observed that bot train and validation accuracy was about 50%. This might be an indication that features
+With the obtained results it was observed that both train and validation accuracy was about 50%. This might be an indication that features
 are not representative of the problem, new features may need to be extracted from the data or the images.
 
